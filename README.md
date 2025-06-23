@@ -1,3 +1,3 @@
 # vending
 
-Repository Vending
+Repository Vending App.
