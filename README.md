@@ -1,3 +1,3 @@
 # vending
 
-Repository Vending App.
+Repository Vending App repo.
