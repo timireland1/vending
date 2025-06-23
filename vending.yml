@@ -1,2 +1,4 @@
 - name: example-repo-1
   description: My first repo
+- name: example-repo-2
+  description: My second repo  
