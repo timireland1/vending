@@ -2,3 +2,5 @@
   description: My first repo
 - name: example-repo-2
   description: My second repo  
+- name: example-repo-3
+  description: My third repo  
