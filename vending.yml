@@ -5,6 +5,8 @@ repositories:
     description: hopefully from template.22222
   - name: helloworld3
     description: hopefully from template.22222    
+  - name: helloworld4
+    description: hopefully from template 4
 repoTeams:
   - teamName: helloworld-team
 teamMemberships:
