@@ -13,6 +13,4 @@ teamMemberships:
 teamAssignments:
   - teamName: helloworld-team
     repoName: helloworld
-    role: write
-
-# comment 2 3 4dasdasdasdasdzxczxczxc asd sdf asd asd asdasd
+    role: maintain
