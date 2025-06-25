@@ -3,6 +3,8 @@ repositories:
     description: hopefully from template.
   - name: helloworld2
     description: hopefully from template.22222
+  - name: myorg1repo
+    description: hopefully from template.22222    
 #  - name: helloworld3
 #    description: hopefully from template.22222    
 #  - name: helloworld4
