@@ -6,20 +6,18 @@ repositories:
   - name: myorg1repo
     description: hopefully from template.22222    
     
-#  - name: helloworld3
-#    description: hopefully from template.22222    
 #  - name: helloworld4
 #    description: hopefully from template 5
 #  - name: helloworld5
 #    description: hopefully from template 5    
-#repoTeams:
-#  - teamName: helloworld-team
-#teamMemberships:
-#  - teamName: helloworld-team
-#    userName: rossbugginsNHS
-#teamAssignments:
-#  - teamName: helloworld-team
-#    repoName: helloworld
-#    role: maintain
+repoTeams:
+  - teamName: helloworld-team
+teamMemberships:
+  - teamName: helloworld-team
+    userName: timireland
+teamAssignments:
+  - teamName: helloworld-team
+    repoName: helloworld
+    role: maintain
 
 # comment  hjasdsdfdfgdg sdf ghgj dfg asd fg asd asd dfg
